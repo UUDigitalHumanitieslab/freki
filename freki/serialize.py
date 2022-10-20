@@ -25,7 +25,7 @@ import re
 # Representation of a document, consisting of a collection
 # of blocks.
 # -------------------------------------------
-from collections import OrderedDict, Iterable
+from collections import OrderedDict
 from gzip import GzipFile
 
 
